@@ -26,10 +26,12 @@ List of software, tools, etc needed to use or test this software. For example:
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo 
+
 git clone https://github.com/over-engineers/cloud-encoder-encoding-node.git
 
-2. Install necessary packages
+2. Install necessary packages 
+
 pip install -r requirements.txt
 
 
